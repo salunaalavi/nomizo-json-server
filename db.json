@@ -1,0 +1,202 @@
+{
+  "threads": [
+    {
+      "author": {
+        "id": 7,
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "username": "UniqueUser7"
+      },
+      "content": "Samsung has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nSamsung user.\n",
+      "created_at": "2022-06-20T18:12:33.001Z",
+      "id": 15,
+      "images": ["https://cataas.com/cat"],
+      "title": "New phone just released",
+      "topic": {
+        "description": "Discussing all about Samsung Galaxy lineups",
+        "id": 9,
+        "name": "SamsungGalaxy",
+        "followers": 200000,
+        "created_at": "2016-08-29T09:12:33.001Z",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+      },
+      "updated_at": "2022-06-20T18:12:33.001Z"
+    },
+    {
+      "author": {
+        "id": 9,
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "username": "UniqueUser9"
+      },
+      "content": "Samsung has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nSamsung user.\n",
+      "created_at": "2016-08-29T09:12:33.001Z",
+      "id": 16,
+      "images": [
+        "https://cataas.com/cat",
+        "https://28.media.tumblr.com/tumblr_ks1a707b1b1qa9hjso1_1280.png",
+        "https://cataas.com/cat"
+      ],
+      "title": "New phone just released",
+      "topic": {
+        "description": "Discussing all about Samsung Galaxy lineups",
+        "id": 9,
+        "name": "SamsungGalaxy",
+        "followers": 200000,
+        "created_at": "2016-08-29T09:12:33.001Z",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+      },
+      "updated_at": "2016-08-29T09:12:33.001Z"
+    },
+    {
+      "author": {
+        "id": 9,
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "username": "UniqueUser9"
+      },
+      "content": "Samsung has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nSamsung user.\n",
+      "created_at": "2016-08-29T09:12:33.001Z",
+      "id": 17,
+      "images": [],
+      "title": "New phone just released",
+      "topic": {
+        "description": "Discussing all about Samsung Galaxy lineups",
+        "id": 9,
+        "name": "SamsungGalaxy",
+        "followers": 200000,
+        "created_at": "2016-08-29T09:12:33.001Z",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+      },
+      "updated_at": "2016-08-29T09:12:33.001Z"
+    },
+    {
+      "author": {
+        "id": 9,
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "username": "UniqueUser9"
+      },
+      "content": "Samsung has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nSamsung user.\n",
+      "created_at": "2022-06-22T11:12:33.001Z",
+      "id": 18,
+      "images": [],
+      "title": "New phone just released",
+      "topic": {
+        "description": "Discussing all about Samsung Galaxy lineups",
+        "id": 9,
+        "name": "SamsungGalaxy",
+        "followers": 200000,
+        "created_at": "2016-08-29T09:12:33.001Z",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+      },
+      "updated_at": "2022-06-22T09:12:33.001Z"
+    },
+    {
+      "author": {
+        "id": 9,
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "username": "UniqueUser9"
+      },
+      "content": "Apple has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nApple user.\n",
+      "created_at": "2016-08-29T09:12:33.001Z",
+      "id": 19,
+      "images": [
+        "https://cataas.com/cat",
+        "https://28.media.tumblr.com/tumblr_ks1a707b1b1qa9hjso1_1280.png",
+        "https://cataas.com/cat"
+      ],
+      "title": "New phone just released",
+      "topic": {
+        "description": "Discussing all about iPhone lineups",
+        "id": 10,
+        "name": "iPhone",
+        "followers": 189000,
+        "created_at": "2016-08-29T09:12:33.001Z",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "rules": "1. Please post only about iPhone lineups\n2. Post about another brand outside iPhone will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+      },
+      "updated_at": "2016-08-29T09:12:33.001Z"
+    },
+    {
+      "author": {
+        "id": 9,
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "username": "UniqueUser9"
+      },
+      "content": "Apple has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nApple user.\n",
+      "created_at": "2016-08-29T09:12:33.001Z",
+      "id": 20,
+      "images": [],
+      "title": "New phone just released",
+      "topic": {
+        "description": "Discussing all about iPhone lineups",
+        "id": 10,
+        "name": "iPhone",
+        "followers": 189000,
+        "created_at": "2016-08-29T09:12:33.001Z",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "rules": "1. Please post only about iPhone lineups\n2. Post about another brand outside iPhone will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+      },
+      "updated_at": "2016-08-29T09:12:33.001Z"
+    },
+    {
+      "author": {
+        "id": 9,
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "username": "UniqueUser9"
+      },
+      "content": "Apple has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nApple user.\n",
+      "created_at": "2022-06-22T11:12:33.001Z",
+      "id": 21,
+      "images": [],
+      "title": "New phone just released",
+      "topic": {
+        "description": "Discussing all about iPhone lineups",
+        "id": 10,
+        "name": "iPhone",
+        "followers": 189000,
+        "created_at": "2016-08-29T09:12:33.001Z",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+        "rules": "1. Please post only about iPhone lineups\n2. Post about another brand outside iPhone will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+      },
+      "updated_at": "2022-06-22T09:12:33.001Z"
+    }
+  ],
+  "topics": [
+    {
+      "description": "Discussing all about Samsung Galaxy lineups",
+      "id": 9,
+      "name": "SamsungGalaxy",
+      "followers": 200000,
+      "created_at": "2016-08-29T09:12:33.001Z",
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+    },
+    {
+      "description": "Discussing all about iPhone lineups",
+      "id": 10,
+      "name": "iPhone",
+      "followers": 189000,
+      "created_at": "2016-08-29T09:12:33.001Z",
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "rules": "1. Please post only about iPhone lineups\n2. Post about another brand outside iPhone will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+    }
+  ],
+  "users": [
+    {
+      "id": 7,
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "username": "UniqueUser7",
+      "followers": 1200,
+      "created_at": "2016-08-29T09:12:33.001Z"
+    },
+    {
+      "id": 9,
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "username": "UniqueUser9",
+      "followers": 1200,
+      "created_at": "2016-08-29T09:12:33.001Z"
+    }
+  ]
+}
