@@ -181,6 +181,60 @@
       "created_at": "2016-08-29T09:12:33.001Z",
       "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
       "rules": "1. Please post only about iPhone lineups\n2. Post about another brand outside iPhone will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+    },
+    {
+      "description": "Discussing all about Kucing",
+      "id": 11,
+      "name": "KucingGarong",
+      "followers": 200,
+      "created_at": "2021-08-29T09:12:33.001Z",
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "rules": "1. Post kucing doang\n2. Post yang lain auto banned\n3. Post NSFW auto reported\n4. Spam juga reported\n"
+    },
+    {
+      "description": "Jomblo kesini semua dah",
+      "id": 12,
+      "name": "JombloBahagia",
+      "followers": 1000000,
+      "created_at": "2017-08-29T09:12:33.001Z",
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "rules": "1. Yang ga jomblo auto banned udah\n"
+    },
+    {
+      "description": "Kobokers bau bawang",
+      "id": 13,
+      "name": "Kobokerzzz",
+      "followers": 696969,
+      "created_at": "2022-08-29T09:12:33.001Z",
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "rules": "1. Wajib simp Kobo\n2. NSFW Kobo bukan disini\n3. Masih ngotot post langsung banned\n"
+    },
+    {
+      "description": "Dummy yak ini",
+      "id": 14,
+      "name": "Dummy",
+      "followers": 189000,
+      "created_at": "2018-08-29T09:12:33.001Z",
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "rules": "1. Please post only about iPhone lineups\n2. Post about another brand outside iPhone will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+    },
+    {
+      "description": "Ini juga dummy",
+      "id": 15,
+      "name": "DummyTopic",
+      "followers": 200000,
+      "created_at": "2015-08-29T09:12:33.001Z",
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
+    },
+    {
+      "description": "Dummy lagi",
+      "id": 16,
+      "name": "DummyKW3",
+      "followers": 9000,
+      "created_at": "2016-08-29T09:12:33.001Z",
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "rules": "1. Please post only about iPhone lineups\n2. Post about another brand outside iPhone will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
     }
   ],
   "users": [
@@ -195,6 +249,48 @@
       "id": 9,
       "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
       "username": "UniqueUser9",
+      "followers": 1200,
+      "created_at": "2016-08-29T09:12:33.001Z"
+    },
+    {
+      "id": 11,
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "username": "UniqueUser11",
+      "followers": 1200000,
+      "created_at": "2018-08-29T09:12:33.001Z"
+    },
+    {
+      "id": 13,
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "username": "UniqueUser13",
+      "followers": 120,
+      "created_at": "2020-08-29T09:12:33.001Z"
+    },
+    {
+      "id": 17,
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "username": "UniqueUser17",
+      "followers": 1200,
+      "created_at": "2016-08-29T09:12:33.001Z"
+    },
+    {
+      "id": 23,
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "username": "UniqueUser23",
+      "followers": 69,
+      "created_at": "2022-08-29T09:12:33.001Z"
+    },
+    {
+      "id": 27,
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "username": "UniqueUser27",
+      "followers": 1200,
+      "created_at": "2019-08-29T09:12:33.001Z"
+    },
+    {
+      "id": 31,
+      "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
+      "username": "UniqueUser31",
       "followers": 1200,
       "created_at": "2016-08-29T09:12:33.001Z"
     }
