@@ -325,7 +325,7 @@
     {
       "author": {
         "id": 7,
-        "profile_image": "nomizo.io/asset/public/user7.png",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
         "username": "UniqueUser7"
       },
       "child_count": 0,
@@ -339,31 +339,31 @@
       "thread": {
         "author": {
           "id": 7,
-          "profile_image": "nomizo.io/asset/public/user7.png",
+          "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
           "username": "UniqueUser7"
         },
         "content": "Samsung has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nSamsung user.\n",
-        "created_at": "2016-08-29T09:12:33.001Z",
+        "created_at": "2022-06-20T18:12:33.001Z",
         "id": 15,
-        "images": [
-          "nomizo.io/asset/public/cat-image.png"
-        ],
+        "images": ["https://cataas.com/cat"],
         "title": "New phone just released",
         "topic": {
           "description": "Discussing all about Samsung Galaxy lineups",
           "id": 9,
           "name": "SamsungGalaxy",
-          "profile_image": "nomizo.io/asset/public/topic2-profile.png",
+          "followers": 200000,
+          "created_at": "2016-08-29T09:12:33.001Z",
+          "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
           "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
         },
-        "updated_at": "2016-08-29T09:12:33.001Z"
+        "updated_at": "2022-06-20T18:12:33.001Z"
       },
       "updated_at": "2016-08-29T09:12:33.001Z"
     },
     {
       "author": {
         "id": 7,
-        "profile_image": "nomizo.io/asset/public/user7.png",
+        "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
         "username": "UniqueUser7"
       },
       "child_count": 0,
@@ -377,24 +377,24 @@
       "thread": {
         "author": {
           "id": 7,
-          "profile_image": "nomizo.io/asset/public/user7.png",
+          "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
           "username": "UniqueUser7"
         },
         "content": "Samsung has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nSamsung user.\n",
-        "created_at": "2016-08-29T09:12:33.001Z",
+        "created_at": "2022-06-20T18:12:33.001Z",
         "id": 15,
-        "images": [
-          "nomizo.io/asset/public/cat-image.png"
-        ],
+        "images": ["https://cataas.com/cat"],
         "title": "New phone just released",
         "topic": {
           "description": "Discussing all about Samsung Galaxy lineups",
           "id": 9,
           "name": "SamsungGalaxy",
-          "profile_image": "nomizo.io/asset/public/topic2-profile.png",
+          "followers": 200000,
+          "created_at": "2016-08-29T09:12:33.001Z",
+          "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
           "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
         },
-        "updated_at": "2016-08-29T09:12:33.001Z"
+        "updated_at": "2022-06-20T18:12:33.001Z"
       },
       "updated_at": "2016-08-29T09:12:33.001Z"
     },
@@ -415,26 +415,26 @@
       "thread": {
         "author": {
           "id": 7,
-          "profile_image": "nomizo.io/asset/public/user7.png",
+          "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
           "username": "UniqueUser7"
         },
         "content": "Samsung has just released a new phone.\nApparently, this phone brings numerous\nfeatures that are useful for existing\nSamsung user.\n",
-        "created_at": "2016-08-29T09:12:33.001Z",
+        "created_at": "2022-06-20T18:12:33.001Z",
         "id": 15,
-        "images": [
-          "nomizo.io/asset/public/cat-image.png"
-        ],
+        "images": ["https://cataas.com/cat"],
         "title": "New phone just released",
         "topic": {
           "description": "Discussing all about Samsung Galaxy lineups",
           "id": 9,
           "name": "SamsungGalaxy",
-          "profile_image": "nomizo.io/asset/public/topic2-profile.png",
+          "followers": 200000,
+          "created_at": "2016-08-29T09:12:33.001Z",
+          "profile_image": "https://randomuser.me/api/portraits/women/84.jpg",
           "rules": "1. Please post only about Samsung Galaxy lineups\n2. Post about another brand outside Samsung will be banned\n3. NSFW post will be reported\n4. Be respectful to each other\n5. Spamming post will be reported\n"
         },
-        "updated_at": "2016-08-29T09:12:33.001Z"
+        "updated_at": "2022-06-20T18:12:33.001Z"
       },
       "updated_at": "2016-08-29T09:12:33.001Z"
     }
-  ] 
+  ]
 }
